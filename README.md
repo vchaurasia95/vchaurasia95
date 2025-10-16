@@ -7,8 +7,6 @@ Full Stack Developer
 I am a Graduate student at the University at Buffalo, SUNY where I am pursuing Masters in Computer Science & Engineering. I'm passionate about building software that handles data, and critical transactions and derives meaningful insights from it. Presently I'm working on deriving various covid-related insights from social media (Twitter) data using various NLP-based approaches. Additionally, I have been deep diving into various consensus algorithms particularly RAFT and other related implementations.
 
 * 🌍  I'm based in Boston, Massachusetts
-* 🖥️  See my portfolio at [MyPortfolio](http://vishal-chaurasia.com/)
-* ✉️  You can contact me at [vchaurasia95@gmail.com](mailto:vchaurasia95@gmail.com)
 
 ### Skills
 
